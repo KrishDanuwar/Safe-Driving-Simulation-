@@ -1,0 +1,58 @@
+# Unity Generated
+/Simulator/[Ll]ibrary/
+/Simulator/[Tt]emp/
+/Simulator/[Oo]bj/
+/Simulator/[Bb]uild/
+/Simulator/[Bb]uilds/
+/Simulator/[Ll]ogs/
+/Simulator/[Uu]serSettings/
+
+# IDE
+/Simulator/.vs/
+/Simulator/.vscode/
+/Simulator/.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D Generated File on Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Plastic SCM
+/Simulator/.plastic/
+/Simulator/ignore.conf
+
+# OS Generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project planning/documentation (not part of the simulation)
+*.md
+GIT_COMMIT_PLAN.md
+MASTER_OVERVIEW.md
+Rebuild_Roadmap.md
+Report_and_Coursework_Final_Checklist.md
+Day1_Unity_Setup_Guide.md
+Day2_Car_Movement_Guide.md
+Day3_Traffic_Light_Guide.md
+Day4_Presentation_Guide.md
+Days5-9_Report_Guide.md
