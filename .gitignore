@@ -45,6 +45,10 @@ sysinfo.txt
 ehthumbs.db
 Thumbs.db
 
+# Large files (exceed GitHub 100MB limit)
+**/LightingData.asset
+*.ma
+
 # Project planning/documentation (not part of the simulation)
 *.md
 GIT_COMMIT_PLAN.md
